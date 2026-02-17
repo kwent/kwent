@@ -136,10 +136,10 @@
 						<span class="comment"># loading context: agent-puppet-master, vibe-coder, ex-sre, 2x-yc-founder...</span>
 					</div>
 					<div class="line line3">
-						<span class="output">→ Building&nbsp;</span><span class="value">rootly.com</span><span class="output">&nbsp;with&nbsp;</span><span class="key">Canva</span><span class="output">,&nbsp;</span><span class="key">Nvidia</span><span class="output">,&nbsp;</span><span class="key">TripAdvisor</span>
+						<span class="output">→ Building&#160;</span><span class="value">rootly.com</span><span class="output">&#160;with&#160;</span><span class="key">Canva</span><span class="output">,&#160;</span><span class="key">Nvidia</span><span class="output">,&#160;</span><span class="key">TripAdvisor</span>
 					</div>
 					<div class="line line4">
-						<span class="output">→ Exploring AI @&nbsp;</span><span class="value">Rootly-AI-Labs</span><span class="cursor"></span>
+						<span class="output">→ Exploring AI @&#160;</span><span class="value">Rootly-AI-Labs</span><span class="cursor"></span>
 					</div>
 				</div>
 			</div>
