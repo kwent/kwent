@@ -130,16 +130,16 @@
 				<div class="content">
 					<div class="line line1">
 						<span class="prompt">❯ </span>
-						<span class="string">"Create an escalation policy that respects timezone handoffs"</span>
+						<span class="command">Create an escalation policy that respects timezone handoffs</span>
 					</div>
 					<div class="line line2">
-						<span class="comment"># loading context: agent-puppet-master, vibe-coder, ex-sre, 2x-yc-founder...</span>
+						<span class="output">⏺ Analyzing current on-call schedules...</span>
 					</div>
 					<div class="line line3">
-						<span class="output">→ Building&#160;</span><span class="value">rootly.com</span><span class="output">&#160;with&#160;</span><span class="key">Canva</span><span class="output">,&#160;</span><span class="key">Nvidia</span><span class="output">,&#160;</span><span class="key">TripAdvisor</span>
+						<span class="output">⏺ Checked 3 teams, found timezone gaps</span>
 					</div>
 					<div class="line line4">
-						<span class="output">→ Exploring AI @&#160;</span><span class="value">Rootly-AI-Labs</span><span class="cursor"></span>
+						<span class="string">→ Created:&#160;</span><span class="key">SRE-US</span><span class="output">&#160;→&#160;</span><span class="key">SRE-EU</span><span class="output">&#160;→&#160;</span><span class="key">SRE-APAC</span><span class="output">,&#160;handoff at 6pm local</span><span class="cursor"></span>
 					</div>
 				</div>
 			</div>
