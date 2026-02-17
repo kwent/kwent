@@ -13,16 +13,15 @@
 ---
 
 <div align="center">
-	<img height="180" src="https://github-readme-stats.vercel.app/api?username=kwent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwent&layout=compact&theme=tokyonight&hide_border=true" />
+
+![Followers](https://img.shields.io/github/followers/kwent?style=for-the-badge&logo=github&label=Followers&color=6366f1)
+![Stars](https://img.shields.io/github/stars/kwent?style=for-the-badge&logo=github&label=Stars&color=f472b6)
+![Repos](https://img.shields.io/badge/Repos-108-05dfd7?style=for-the-badge&logo=github)
+
 </div>
 
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=kwent&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=kwent&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
