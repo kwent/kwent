@@ -6,7 +6,7 @@
 
 <div align="center">
 
-2x YC founder · Ex-Instacart SRE · Agent puppet master · Vibe coding my way through
+CTO & Co-founder [@rootly](https://rootly.com) · 2x YC founder · Ex-Instacart SRE · Agent puppet master · Vibe coding my way through
 
 When AFK: rock climbing or hunting for good wine.
 
