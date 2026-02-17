@@ -6,9 +6,30 @@
 
 <div align="center">
 
-### CTO & Co-Founder at [Rootly](https://rootly.com) | San Francisco
+**2x YC Founder** · **Ex-Instacart SRE** · **From France, based in SF**
 
 </div>
+
+---
+
+### About
+
+Early SRE at **Instacart** where I built systems now handling millions of orders. The pain of managing incidents at scale led me to co-found **[Rootly](https://rootly.com)** (YC S21) — now used by Canva, Nvidia, and TripAdvisor.
+
+Previously co-founded **[PopSQL](https://popsql.com)** (YC S19), a collaborative SQL editor used by 2000+ companies.
+
+When not shipping code, you'll find me rock climbing or hunting for good wine.
+
+---
+
+### Open Source Highlights
+
+| Project | Description |
+|---------|-------------|
+| **[syno](https://github.com/kwent/syno)** | Node.js wrapper & CLI for Synology DSM API |
+| **[pgbouncerhero](https://github.com/kwent/pgbouncerhero)** | Dashboard for your PgBouncers |
+| **[aws-launcher](https://github.com/kwent/aws-launcher)** | Launch AWS services from macOS dock |
+| **[thumbnailme](https://github.com/kwent/thumbnailme)** | Video thumbnail generator (C++) |
 
 ---
 
@@ -16,7 +37,6 @@
 
 ![Followers](https://img.shields.io/github/followers/kwent?style=for-the-badge&logo=github&label=Followers&color=6366f1)
 ![Stars](https://img.shields.io/github/stars/kwent?style=for-the-badge&logo=github&label=Stars&color=f472b6)
-![Repos](https://img.shields.io/badge/Repos-108-05dfd7?style=for-the-badge&logo=github)
 
 </div>
 
@@ -28,7 +48,8 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-@quentinrousseau-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quentinrousseau)
-[![Rootly](https://img.shields.io/badge/Rootly-rootly.com-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://rootly.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@quentinrousseau-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/quentinrousseau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-quentinrousseau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentinrousseau)
+[![Rootly](https://img.shields.io/badge/Rootly-rootly.com-6366f1?style=for-the-badge)](https://rootly.com)
 
 </div>
