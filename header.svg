@@ -133,7 +133,7 @@
 						<span class="string">"Create an escalation policy that respects timezone handoffs"</span>
 					</div>
 					<div class="line line2">
-						<span class="comment"># loading context: ex-instacart-sre, 2x-yc-founder...</span>
+						<span class="comment"># loading context: prompt-whisperer, ex-instacart-sre, 2x-yc-founder...</span>
 					</div>
 					<div class="line line3">
 						<span class="output">→ Building&nbsp;</span><span class="value">rootly.com</span><span class="output">&nbsp;with&nbsp;</span><span class="key">Canva</span><span class="output">,&nbsp;</span><span class="key">Nvidia</span><span class="output">,&nbsp;</span><span class="key">TripAdvisor</span>

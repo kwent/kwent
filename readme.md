@@ -6,7 +6,7 @@
 
 <div align="center">
 
-When not shipping code, you'll find me rock climbing or hunting for good wine.
+Now mass producing YAML to mass produce code. When AFK: rock climbing or hunting for good wine.
 
 [![Twitter](https://img.shields.io/badge/@quentinrousseau-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/quentinrousseau)
 [![LinkedIn](https://img.shields.io/badge/quentinrousseau-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentinrousseau)
