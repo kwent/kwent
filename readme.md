@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Agent puppet master. Mass producing YAML, vibe coding the rest. When AFK: rock climbing or hunting for good wine.
+Agent puppet master. Vibe coding my way through. When AFK: rock climbing or hunting for good wine.
 
 [![Twitter](https://img.shields.io/badge/@quentinrousseau-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/quentinrousseau)
 [![LinkedIn](https://img.shields.io/badge/quentinrousseau-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentinrousseau)
