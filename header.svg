@@ -137,19 +137,10 @@
 						<span class="comment"># loading context: ex-instacart-sre, 2x-yc-founder...</span>
 					</div>
 					<div class="line line3">
-						<span class="output">→ Building </span>
-						<span class="value">rootly.com</span>
-						<span class="output"> with </span>
-						<span class="key">Canva</span>
-						<span class="output">, </span>
-						<span class="key">Nvidia</span>
-						<span class="output">, </span>
-						<span class="key">TripAdvisor</span>
+						<span class="output">→ Building&nbsp;</span><span class="value">rootly.com</span><span class="output">&nbsp;with&nbsp;</span><span class="key">Canva</span><span class="output">,&nbsp;</span><span class="key">Nvidia</span><span class="output">,&nbsp;</span><span class="key">TripAdvisor</span>
 					</div>
 					<div class="line line4">
-						<span class="output">→ Exploring AI @ </span>
-						<span class="value">Rootly-AI-Labs</span>
-						<span class="cursor"></span>
+						<span class="output">→ Exploring AI @&nbsp;</span><span class="value">Rootly-AI-Labs</span><span class="cursor"></span>
 					</div>
 				</div>
 			</div>
